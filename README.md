@@ -10,4 +10,6 @@ Difficulty : very easy
 
 2 *Android* = Use Termshark (Termux)
 
+> Hint : Use http filter
+
 Flag format : sudo{sometext}
