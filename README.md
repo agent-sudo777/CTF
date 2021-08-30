@@ -1,4 +1,4 @@
-# Wireshark CTF
+# Network Forensic CTF
 
 https://github.com/agent-sudo777/CTF/blob/Banner/challenge1.zip
 
