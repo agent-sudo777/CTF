@@ -4,7 +4,7 @@ https://github.com/agent-sudo777/CTF/blob/Banner/challenge1.zip
 
 *Download the zip file*
 
-```Difficulty : very easy```
+Difficulty : very easy
 
 1 *Desktop* = Use wireshark for finding flag
 
